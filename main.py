@@ -5,8 +5,6 @@ import markups
 TOKEN = "5546042303:AAGQkF395NZbfG3WnwtMBh-5ArO3Gojha1o"
 bot = telebot.TeleBot(TOKEN)
 admin = 805404632  # указать id администратора в tg,
-# в моем случае id чата и id аккаунта телеграм это одно и тоже значение,
-# если у вас не так скину иструкцию, как получить chat id чата с админом
 apeeals = {}
 
 
